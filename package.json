@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-5minlab",
-  "version": "0.0.0-development",
+  "version": "0.1.0",
   "description": "tslint.json for 5minlab",
   "main": "tslint.js",
   "scripts": {},
@@ -16,5 +16,10 @@
   "homepage": "https://github.com/5minlab/tslint-config#readme",
   "devDependencies": {
     "tslint": "^5.19.0"
-  }
+  },
+  "keywords": [
+    "5minlab",
+    "tslint",
+    "typescript"
+  ]
 }
