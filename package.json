@@ -1,0 +1,20 @@
+{
+  "name": "tslint-config-5minlab",
+  "version": "0.0.0-development",
+  "description": "tslint.json for 5minlab",
+  "main": "tslint.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5minlab/tslint-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5minlab/tslint-config/issues"
+  },
+  "homepage": "https://github.com/5minlab/tslint-config#readme",
+  "devDependencies": {
+    "tslint": "^5.19.0"
+  }
+}

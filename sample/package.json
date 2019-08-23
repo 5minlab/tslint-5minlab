@@ -1,0 +1,16 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "tslint -p ./tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tslint-config-5minlab": "../",
+    "tslint": "^5.19.0",
+    "typescript": "^3.5.3"
+  }
+}
