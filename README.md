@@ -1,27 +1,30 @@
-# tslint-config
+# @5minlab/tslint
 
-[![Build Status](https://travis-ci.org/5minlab/tslint-config-5minlab.svg?branch=master)](https://travis-ci.org/5minlab/tslint-config-5minlab)
-
-[![npm version](http://img.shields.io/npm/v/tslint-config-5minlab.svg?style=flat)](https://npmjs.org/package/tslint-config-5minlab "View this project on npm")
-
+[![Build Status](https://travis-ci.org/5minlab/tslint-5minlab.svg?branch=master)](https://travis-ci.org/5minlab/tslint-config-5minlab)
+![npm](https://img.shields.io/npm/v/@5minlab/tslint)
 
 tslint.json for 5minlab
 
-## install
+## installation
 
-```bash
-npm install tslint-config-5minlab --save-dev
+```sh
+$ npm install @5minlab/tslint --save-dev
 ```
-
 
 ## usage
 
 tslint.json
 
-```
+```json
 {
   "extends": [
-    "tslint-config-5minlab"
+    "@5minlab/tslint"
   ]
 }
+```
+
+## publish
+
+```sh
+$ npm publish --registry  https://registry.npmjs.org/
 ```

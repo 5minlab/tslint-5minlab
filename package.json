@@ -1,6 +1,9 @@
 {
-  "name": "tslint-config-5minlab",
-  "version": "0.1.0",
+  "name": "@5minlab/tslint",
+  "version": "0.1.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "tslint.json for 5minlab",
   "main": "tslint.js",
   "scripts": {},
@@ -8,8 +11,7 @@
     "type": "git",
     "url": "https://github.com/5minlab/tslint-config.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "5minlab",
   "bugs": {
     "url": "https://github.com/5minlab/tslint-config/issues"
   },

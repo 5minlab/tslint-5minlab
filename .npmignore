@@ -1,6 +1,0 @@
-.git*
-sample
-node_modules
-README.md
-.editorconfig
-.travis.yml
