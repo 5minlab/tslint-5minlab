@@ -1,5 +1,5 @@
 {
   "extends": [
-    "tslint-config-5minlab"
+    "@5minlab/tslint"
   ]
 }

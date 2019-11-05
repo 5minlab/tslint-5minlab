@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tslint-config-5minlab": "../",
+    "@5minlab/tsconfig": "^1.0.3",
+    "@5minlab/tslint": "../",
     "tslint": "^5.19.0",
     "typescript": "^3.5.3"
   }

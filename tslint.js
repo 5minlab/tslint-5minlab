@@ -47,6 +47,7 @@ module.exports = {
 		'unified-signatures': false,
 		'no-bitwise': false,
 		'arrow-parens': false,
+		'no-floating-promises': true,
 		'object-literal-shorthand': [
 			false,
 			'never'

@@ -1,9 +1,10 @@
 {
-  "compilerOptions": {
-    "plugins": [
-      {
-        "name": "typescript-tslint-plugin"
-      }
-    ]
-  }
+  "extends": "@5minlab/tsconfig",
+  "include": [
+    "**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "build"
+  ]
 }
