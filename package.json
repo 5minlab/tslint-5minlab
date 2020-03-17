@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/5minlab/tslint-config#readme",
   "devDependencies": {
-    "tslint": "^5.19.0"
+    "tslint": "^6.1.0"
   },
   "keywords": [
     "5minlab",
