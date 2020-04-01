@@ -51,6 +51,7 @@ module.exports = {
 		'object-literal-shorthand': [
 			false,
 			'never'
-		]
+		],
+		'no-restricted-globals': true,
 	}
 }
