@@ -1,7 +1,8 @@
 {
-  "name": "@5minlab/tslint",
-  "version": "1.0.5",
+  "name": "@5minlab/tslint-5minlab",
+  "version": "1.1.0",
   "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@5minlab",
     "access": "public"
   },
   "description": "tslint.json for 5minlab",
@@ -9,13 +10,13 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/5minlab/tslint-config.git"
+    "url": "https://github.com/5minlab/tslint-5minlab.git"
   },
   "author": "5minlab",
   "bugs": {
-    "url": "https://github.com/5minlab/tslint-config/issues"
+    "url": "https://github.com/5minlab/tslint-5minlab/issues"
   },
-  "homepage": "https://github.com/5minlab/tslint-config#readme",
+  "homepage": "https://github.com/5minlab/tslint-5minlab#readme",
   "devDependencies": {
     "tslint": "^6.1.0"
   },
