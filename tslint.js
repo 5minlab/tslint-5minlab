@@ -53,5 +53,6 @@ module.exports = {
 			'never'
 		],
 		'no-restricted-globals': true,
+		'no-consecutive-blank-lines': true,
 	}
 }
