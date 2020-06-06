@@ -7,7 +7,18 @@ module.exports = {
 			true,
 			'tabs'
 		],
-		'whitespace': false,
+		'whitespace': [
+			true,
+			'check-branch',
+			'check-decl',
+			'check-operator',
+			'check-module',
+			'check-separator',
+			'check-rest-spread',
+			'check-type',
+			'check-typecast',
+			'check-type-operator',
+		],
 		'quotemark': [
 			true,
 			'single',
