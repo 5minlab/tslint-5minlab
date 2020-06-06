@@ -54,5 +54,6 @@ module.exports = {
 		],
 		'no-restricted-globals': true,
 		'no-consecutive-blank-lines': true,
-	}
-}
+		'curly': true,
+	},
+};
