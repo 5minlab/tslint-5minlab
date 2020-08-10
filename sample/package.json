@@ -6,12 +6,11 @@
   "scripts": {
     "lint": "tslint -p ./tsconfig.json"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "5minlab",
   "devDependencies": {
-    "@5minlab/tsconfig": "^1.0.3",
+    "@5minlab/tsconfig": "^1.1.0",
     "@5minlab/tslint": "../",
-    "tslint": "^5.19.0",
-    "typescript": "^3.5.3"
+    "tslint": "^6.1.3",
+    "typescript": "^3.9.7"
   }
 }
