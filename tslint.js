@@ -66,5 +66,6 @@ module.exports = {
 		'no-restricted-globals': true,
 		'no-consecutive-blank-lines': true,
 		'curly': true,
+		'no-promise-as-boolean': true,
 	},
 };
