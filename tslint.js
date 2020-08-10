@@ -67,5 +67,13 @@ module.exports = {
 		'no-consecutive-blank-lines': true,
 		'curly': true,
 		'no-promise-as-boolean': true,
+		'strict-boolean-expressions': [
+			true,
+			'allow-null-union',
+			'allow-undefined-union',
+			'allow-string',
+			'allow-number',
+			'allow-mix',
+		],
 	},
 };
