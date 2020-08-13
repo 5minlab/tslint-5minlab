@@ -73,6 +73,7 @@ module.exports = {
 			'allow-undefined-union',
 			'allow-string',
 			'allow-number',
+			'allow-enum',
 			'allow-mix',
 		],
 	},
