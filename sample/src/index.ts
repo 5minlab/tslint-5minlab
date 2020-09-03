@@ -19,3 +19,9 @@ class SampleClass {
 		return 2;
 	}
 }
+
+// strict-boolean-expressions
+{
+	const str = `${Math.random()}`;
+	const a = str || '';
+}

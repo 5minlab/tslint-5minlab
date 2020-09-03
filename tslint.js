@@ -75,6 +75,7 @@ module.exports = {
 			'allow-number',
 			'allow-enum',
 			'allow-mix',
+			'ignore-rhs',
 		],
 		'array-type': false,
 	},
